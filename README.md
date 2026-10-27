@@ -261,4 +261,4 @@ This repository serves as the official landing page for Real Pool. The software 
 **Get the most recent version of Real Pool today!**
 
 ---
-**Last updated:** 2026-10-27 11:25:53 UTC
+**Last updated:** 2026-10-27 17:14:42 UTC
